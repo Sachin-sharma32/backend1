@@ -25,3 +25,4 @@
 // git branch side1  ( create new branch )
 // git branch         ( log all branches )
 // git checkout side1  ( switch to the branch )
+// git merge side1  ( merge side branch into side branch )
