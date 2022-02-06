@@ -15,3 +15,13 @@
 //  .gitignore
 
 // git rm --cached -r .  -> remove all files from commit stage
+
+
+//? cloning
+// copy url
+// git clone url
+
+//? branching
+// git branch side1  ( create new branch )
+// git branch         ( log all branches )
+// git checkout side1  ( switch to the branch )
